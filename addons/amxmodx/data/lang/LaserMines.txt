@@ -1,0 +1,67 @@
+[ru]
+CHATTAG	=	[ZP][LM]
+STR_NOTACTIVE	=	МИНЫ ВЫКЛЮЧЕНЫ!
+STR_NOROUND	=	Раунд еще не начался!
+STR_SURVROUND	=	В раунде 'Выживший' нельзя ставить мины!
+STR_NEMROUND	=	В раунде 'Немезида' нельзя ставить мины!
+STR_DONTHAVEMINE	=	У Вас нет лазерных мин.
+STR_MAXDEPLOY	=	Установлен максимум мин.
+STR_MANYPPL	=	Слишком много мин для вашей команды...
+STR_PLANTWALL	=	Мины нужно ставить на стену!
+STR_REF	=	Чтоб узнать как ставить мины пропишите в консоли: 'say lasermine'
+STR_CBT	=	Вы не можете ставить мины!
+STR_CANTBUY	=	Вы не можете покупать мины.
+STR_HAVEMAX	=	У Вас максимум лазерных мин.
+STR_NOMONEY	=	У Вас не достаточно средств (нужно 
+STR_NEEDED	=	бонусa(ов)).
+STR_DELAY	=	Вы можете покупать и ставить мины через
+STR_SECONDS	=	сек.
+STR_BOUGHT	=	Вы купили лазерную мину!
+STR_STATE	=	Количество мин:
+STR_NOACCESS	=	И куда ты ломишься?!
+
+
+[en]
+CHATTAG	=	[ZP][LM]
+STR_NOTACTIVE	=	Lasermines are not currently active.
+STR_NOROUND	=	Round is not started!
+STR_SURVROUND	=	At 'Survivor' round, you can't deploy mines.
+STR_NEMROUND	=	At 'Nemesis' round, you can't deploy mines.
+STR_DONTHAVEMINE	=	You don't have lasermine.
+STR_MAXDEPLOY	=	Maximum mines have been deployed.
+STR_MANYPPL	=	Too many mines on your team...
+STR_PLANTWALL	=	You must plant the lasermine on a wall
+STR_REF	=	Refer to a lasermine rule with this server. say 'lasermine'
+STR_CBT	=	Your Team Can't buy and deploying lasermine!
+STR_CANTBUY	=	Can't buying this server.
+STR_HAVEMAX	=	You have a maximum lasermine.
+STR_NOMONEY	=	You don't have enough AP to buy a lasermine! (
+STR_NEEDED	=	needed).
+STR_DELAY	=	You can buying and deploying lasermine in after
+STR_SECONDS	=	seconds.
+STR_BOUGHT	=	You have successfully bought a lasermine!
+STR_STATE	=	LaserMines Ammo:
+STR_NOACCESS	=	You can't access, this command!
+
+
+[fr]
+CHATTAG = [ZP][LM]
+STR_NOTACTIVE = Lasermines ne sont actuellement pas active.
+STR_NOROUND = Le round n'est actuellement pas commence!
+STR_SURVROUND = Dans un mod survivor vous ne pouvez pas déployer des mines.
+STR_NEMROUND = Dans un mod Nemesis vous ne pouvez pas déployer des mines.
+STR_DONTHAVEMINE = Vous n'avez pas de mine.
+STR_MAXDEPLOY = Le Maximum.
+STR_MANYPPL = Trop nombreuses mines de votre équipe...
+STR_PLANTWALL = Vous devez planter les lasermines sur un mur
+STR_REF = Refer to a lasermine rule with this server. say 'lasermine'
+STR_CBT = Votre team ne peut acheter et deployer des lasermines !
+STR_CANTBUY = Peut pas acheter de mine sur ce serveur.
+STR_HAVEMAX = Vous avez le maximum de lasermine.
+STR_NOMONEY = Vous n'avez pas assez d'AmmoPacks pour acheter un lasermine! (
+STR_NEEDED = Necessaire).
+STR_DELAY = Vous pouvez acheter et déployer dans lasermine après
+STR_SECONDS = secondes.
+STR_BOUGHT = Vous venez d'acheter un lasermine!
+STR_STATE = LaserMines Ammo:
+STR_NOACCESS = Vous n'avez pas acces a cette commande! 
