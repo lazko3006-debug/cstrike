@@ -1,0 +1,10 @@
+maps/zm_evil_ice_attack.res
+maps/zm_evil_ice_attack.nav
+zm_evil-ice_attack.wad
+models/zm_evil-ice_attack/xcar1.mdl
+models/zm_evil-ice_attack/xeesti.mdl
+models/zm_evil-ice_attack/xicegilbs.mdl
+models/zm_evil-ice_attack/xtree1.mdl
+maps/zm_evil_ice_attack.x_info
+zm_evil_ice_attack
+zm_evil_ice_attack_1

@@ -1,0 +1,14 @@
+// overview description file for bio_simpsons.bsp
+
+global 
+{
+	ZOOM	3.80
+	ORIGIN	94	-665.13	-352
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/bio_simpsons.bmp"
+	HEIGHT	-352
+}

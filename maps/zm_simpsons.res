@@ -1,0 +1,9 @@
+gfx/env/simpsonsup.tga
+gfx/env/simpsonsdn.tga
+gfx/env/simpsonslf.tga
+gfx/env/simpsonsrt.tga
+gfx/env/simpsonsft.tga
+gfx/env/simpsonsbk.tga
+overviews/bio_simpsons.bmp
+overviews/bio_simpsons.txt
+maps/bio_simpsons.res
